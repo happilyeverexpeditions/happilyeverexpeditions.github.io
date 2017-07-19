@@ -14,7 +14,14 @@
 					<key>Allegro</key>
 					<dict/>
 					<key>Kiki</key>
-					<dict/>
+					<dict>
+						<key>%colour_header%</key>
+						<string>#FEE9C3</string>
+						<key>%colour_headerText%</key>
+						<string>#2E303C</string>
+						<key>%colour_nav%</key>
+						<string>#2E313D</string>
+					</dict>
 					<key>Lander</key>
 					<dict/>
 					<key>Offroad</key>
@@ -63,6 +70,14 @@
 				<string>utf-8</string>
 				<key>ThemeStyles</key>
 				<dict>
+					<key>Kiki</key>
+					<array>
+						<string>Font Family.Joseph</string>
+						<string>Font Size.Normal</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Banner Overlay.Red overlay</string>
+						<string>Toggle Site Banner.Display Banner</string>
+					</array>
 					<key>Split</key>
 					<array>
 						<string>Font Family.Ubuntu</string>
