@@ -10,15 +10,14 @@
 			<key>Dictionary</key>
 			<dict/>
 			<key>Files</key>
-			<array/>
-			<key>Subsandwiches</key>
 			<array>
-				<string>46B424DE-85D1-4A32-9C10-2765E501AAA2</string>
-				<string>B48B466E-AFC5-48E6-A938-19BD4A120731</string>
+				<string>insta.png</string>
 			</array>
+			<key>Subsandwiches</key>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Resources</string>
+	<string>Resource</string>
 </dict>
 </plist>

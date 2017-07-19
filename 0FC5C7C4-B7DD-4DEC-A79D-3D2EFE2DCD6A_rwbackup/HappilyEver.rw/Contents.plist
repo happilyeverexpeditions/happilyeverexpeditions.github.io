@@ -23,6 +23,14 @@
 							<key>isInternal</key>
 							<true/>
 						</dict>
+						<dict>
+							<key>fullPath</key>
+							<string>insta.png</string>
+							<key>identifier</key>
+							<string>46B424DE-85D1-4A32-9C10-2765E501AAA2</string>
+							<key>isInternal</key>
+							<true/>
+						</dict>
 					</array>
 				</dict>
 				<key>Minimum Application Version</key>
@@ -32,7 +40,7 @@
 					<key>page0 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T01:32:53Z</date>
+						<date>2017-07-19T02:03:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -41,11 +49,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								B6zOyzPgju13
-								4+J7wGvkOw==
+								FN5a84yfAN15
+								hRoVXhCtnQ==
 								</data>
 								<key>Size</key>
-								<integer>4234</integer>
+								<integer>3678</integer>
 							</dict>
 							<key>rw_common/images/halfVan.png</key>
 							<dict>
@@ -98,7 +106,7 @@
 					<key>page1 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T01:32:53Z</date>
+						<date>2017-07-19T02:03:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -107,11 +115,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								u/xECw6zuvQP
-								q0Ve/zN+8w==
+								z26NnuUTyAbO
+								JKFghAC2vQ==
 								</data>
 								<key>Size</key>
-								<integer>4667</integer>
+								<integer>4099</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -124,7 +132,7 @@
 					<key>page2 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T01:32:53Z</date>
+						<date>2017-07-19T02:03:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -133,11 +141,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								+pIIs2kO2PUQ
-								+LSTgkeRJw==
+								fE68SWtwDoq6
+								41W+enmAzA==
 								</data>
 								<key>Size</key>
-								<integer>4081</integer>
+								<integer>3513</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -150,11 +158,21 @@
 					<key>rw:document:resources - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T01:32:53Z</date>
+						<date>2017-07-19T02:03:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>insta.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Ff99AJWfDdDX
+								UbiluA0v4g==
+								</data>
+								<key>Size</key>
+								<integer>2575</integer>
+							</dict>
 							<key>smallCastle.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -176,7 +194,7 @@
 					<key>rw:theme:kiki - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T01:32:53Z</date>
+						<date>2017-07-19T02:03:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -252,54 +270,66 @@
 				</dict>
 				<key>Site Resources</key>
 				<data>
-				YnBsaXN0MDDUAQIDBAUGiYpYJHZlcnNpb25YJG9iamVj
-				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIExQVHyMz
-				NDU2OkBISUpLT1NXXWNrbnJ3e3+Dh1UkbnVsbNMJCgsM
-				DxJXTlMua2V5c1pOUy5vYmplY3RzViRjbGFzc6INDoAC
-				gAOiEBGABIAYgB1YZGF0YWJhc2VUbm9kZdULFhcYGRob
-				HB0eXklkZW50aWZpZXIgTWFwWFBhZ2UgTWFwWE5vZGUg
-				TWFwWVJlc291cmNlc4AcgBOAG4AUgAXSCgsgIqEhgAaA
-				EtgLJCUmJygpKissLC4vMDEyXFB1Ymxpc2hlZFVSTF1Q
-				dWJsaXNoZWREYXRlXxAPQ2hhbmdlZFN0YXR1c2VzVE5h
-				bWVaSWRlbnRpZmllcllUaW1lU3RhbXBZRmlsZVRva2Vu
-				gBGAAIAAgAyACIAHgAqACV8QJDFGQTg0MjNELTlDRkQt
-				NDZFMC05MUNFLTBEOTFCQUQyNUM3Ql8QD3NtYWxsQ2Fz
-				dGxlLmpwZ18QJEI0OEI0NjZFLUFGQzUtNDhFNi1BOTM4
-				LTE5QkQ0QTEyMDczMdI3Czg5V05TLnRpbWUjQb8e7kZf
-				wx6AC9I7PD0+WiRjbGFzc25hbWVYJGNsYXNzZXNWTlNE
-				YXRloj0/WE5TT2JqZWN00wkKC0FER6JCQ4ANgA6iRUWA
-				D4APgBBfEC5maWxlOi8vL0xpYnJhcnkvU2VydmVyL1dl
-				Yi9EYXRhL1NpdGVzL0RlZmF1bHQvXxBkZmlsZTovLy9V
-				c2Vycy9hZGFtY2hpYXJhdmFsbGUvRGV2ZWxvcGVyL2hh
-				cHBpbHlldmVyZXhwZWRpdGlvbnMuY29tL2hhcHBpbHll
-				dmVyZXhwZWRpdGlvbnMuZ2l0aHViLmlvLwjSOzxMTV8Q
-				E05TTXV0YWJsZURpY3Rpb25hcnmjTE4/XE5TRGljdGlv
-				bmFyedI7PFBRXlJXU2l0ZVJlc291cmNlolI/XlJXU2l0
-				ZVJlc291cmNl0js8VFVcTlNNdXRhYmxlU2V0o1RWP1VO
-				U1NldNMJCgtYWkehMIAHoSGABoAQ0wkKC15gR6EwgAeh
-				YYAVgBDUC2RlZmdoESFYQ2hpbGRyZW5WUGFyZW50XxAS
-				UmVwcmVzZW50ZWQgT2JqZWN0gBqAFoAYgAbSCgtsbaCA
-				F9I7PG9wXk5TTXV0YWJsZUFycmF5o29xP1dOU0FycmF5
-				1AtkZWZndCwsgBqAGYAAgADSCgt4baFhgBWAF9I7PHx9
-				XxAQUldTb3VyY2VMaXN0Tm9kZaJ+P18QEFJXU291cmNl
-				TGlzdE5vZGXTCQoLgIFHoKCAENI7PISFXxASUldSZXNv
-				dXJjZURhdGFiYXNlooY/XxASUldSZXNvdXJjZURhdGFi
-				YXNl0js8ToiiTj9fEA9OU0tleWVkQXJjaGl2ZXLRi4xU
-				cm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbQB4AH8A
-				ggCEAIYAiQCLAI0AjwCYAJ0AqAC3AMAAyQDTANUA1wDZ
-				ANsA3QDiAOQA5gDoAPkBBgEUASYBKwE2AUABSgFMAU4B
-				UAFSAVQBVgFYAVoBgQGTAboBvwHHAdAB0gHXAeIB6wHy
-				AfUB/gIFAggCCgIMAg8CEQITAhUCRgKtAq4CswLJAs0C
-				2gLfAu4C8QMAAwUDEgMWAxwDIwMlAycDKQMrAy0DNAM2
-				AzgDOgM8Az4DRwNQA1cDbANuA3ADcgN0A3kDegN8A4ED
-				kAOUA5wDpQOnA6kDqwOtA7IDtAO2A7gDvQPQA9MD5gPt
-				A+4D7wPxA/YECwQOBCMEKAQrBD0EQARFAAAAAAAAAgEA
-				AAAAAAAAjQAAAAAAAAAAAAAAAAAABEc=
+				YnBsaXN0MDDUAQIDBAUGra5YJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJwcIExQVHyQ0
+				NTY3O0FJSktMUFRdXl9gY2lqbnZ+homNkpecn6Onq1Uk
+				bnVsbNMJCgsMDxJXTlMua2V5c1pOUy5vYmplY3RzViRj
+				bGFzc6INDoACgAOiEBGABIAfgCZYZGF0YWJhc2VUbm9k
+				ZdULFhcYGRobHB0eXklkZW50aWZpZXIgTWFwWFBhZ2Ug
+				TWFwWE5vZGUgTWFwWVJlc291cmNlc4AlgBqAJIAbgAXS
+				CgsgI6IhIoAGgBKAGdgLJSYnKCkqKywtLS8wMTIzXFB1
+				Ymxpc2hlZFVSTF1QdWJsaXNoZWREYXRlXxAPQ2hhbmdl
+				ZFN0YXR1c2VzVE5hbWVaSWRlbnRpZmllcllUaW1lU3Rh
+				bXBZRmlsZVRva2VugBGAAIAAgAyACIAHgAqACV8QJDFG
+				QTg0MjNELTlDRkQtNDZFMC05MUNFLTBEOTFCQUQyNUM3
+				Ql8QD3NtYWxsQ2FzdGxlLmpwZ18QJEI0OEI0NjZFLUFG
+				QzUtNDhFNi1BOTM4LTE5QkQ0QTEyMDczMdI4Czk6V05T
+				LnRpbWUjQb8e9W52DwqAC9I8PT4/WiRjbGFzc25hbWVY
+				JGNsYXNzZXNWTlNEYXRloj5AWE5TT2JqZWN00wkKC0JF
+				SKJDRIANgA6iRkaAD4APgBBfEC5maWxlOi8vL0xpYnJh
+				cnkvU2VydmVyL1dlYi9EYXRhL1NpdGVzL0RlZmF1bHQv
+				XxBkZmlsZTovLy9Vc2Vycy9hZGFtY2hpYXJhdmFsbGUv
+				RGV2ZWxvcGVyL2hhcHBpbHlldmVyZXhwZWRpdGlvbnMu
+				Y29tL2hhcHBpbHlldmVyZXhwZWRpdGlvbnMuZ2l0aHVi
+				LmlvLwjSPD1NTl8QE05TTXV0YWJsZURpY3Rpb25hcnmj
+				TU9AXE5TRGljdGlvbmFyedI8PVFSXlJXU2l0ZVJlc291
+				cmNlolNAXlJXU2l0ZVJlc291cmNl2AslJicoKSorLC0t
+				WFlaW1yAEYAAgACAF4AUgBOAFoAVXxAkOEE3NzZBQkIt
+				N0FCMC00QzZBLUIyMjQtNUM0RTNBRTEwQjE3WWluc3Rh
+				LnBuZ18QJDQ2QjQyNERFLTg1RDEtNEEzMi05QzEwLTI3
+				NjVFNTAxQUFBMtI4C2E6I0G/HvVudpAlgAvTCQoLZGZI
+				oWWAGKFGgA+AEF8QZGZpbGU6Ly8vVXNlcnMvYWRhbWNo
+				aWFyYXZhbGxlL0RldmVsb3Blci9oYXBwaWx5ZXZlcmV4
+				cGVkaXRpb25zLmNvbS9oYXBwaWx5ZXZlcmV4cGVkaXRp
+				b25zLmdpdGh1Yi5pby/SPD1rbFxOU011dGFibGVTZXSj
+				a21AVU5TU2V00wkKC29ySKIxWoAHgBOiISKABoASgBDT
+				CQoLd3pIojFagAeAE6J7fIAcgCGAENQLf4CBgoMRIVhD
+				aGlsZHJlblZQYXJlbnRfEBJSZXByZXNlbnRlZCBPYmpl
+				Y3SAI4AdgB+ABtIKC4eIoIAe0jw9ioteTlNNdXRhYmxl
+				QXJyYXmjioxAV05TQXJyYXnUC3+AgYKPLS2AI4AggACA
+				ANIKC5OIont8gByAIYAe1At/gIGCmREigCOAIoAfgBLS
+				CgudiKCAHtI8PaChXxAQUldTb3VyY2VMaXN0Tm9kZaKi
+				QF8QEFJXU291cmNlTGlzdE5vZGXTCQoLpKVIoKCAENI8
+				PaipXxASUldSZXNvdXJjZURhdGFiYXNloqpAXxASUldS
+				ZXNvdXJjZURhdGFiYXNl0jw9T6yiT0BfEA9OU0tleWVk
+				QXJjaGl2ZXLRr7BUcm9vdIABAAgAEQAaACMALQAyADcA
+				YQBnAG4AdgCBAIgAiwCNAI8AkgCUAJYAmAChAKYAsQDA
+				AMkA0gDcAN4A4ADiAOQA5gDrAO4A8ADyAPQBBQESASAB
+				MgE3AUIBTAFWAVgBWgFcAV4BYAFiAWQBZgGNAZ8BxgHL
+				AdMB3AHeAeMB7gH3Af4CAQIKAhECFAIWAhgCGwIdAh8C
+				IQJSArkCugK/AtUC2QLmAusC+gL9AwwDHQMfAyEDIwMl
+				AycDKQMrAy0DVANeA4UDigOTA5UDnAOeA6ADogOkA6YE
+				DQQSBB8EIwQpBDAEMwQ1BDcEOgQ8BD4EQARHBEoETARO
+				BFEEUwRVBFcEYARpBHAEhQSHBIkEiwSNBJIEkwSVBJoE
+				qQStBLUEvgTABMIExATGBMsEzgTQBNIE1ATdBN8E4QTj
+				BOUE6gTrBO0E8gUFBQgFGwUiBSMFJAUmBSsFQAVDBVgF
+				XQVgBXIFdQV6AAAAAAAAAgEAAAAAAAAAsQAAAAAAAAAA
+				AAAAAAAABXw=
 				</data>
 				<key>SiteAttributes</key>
 				<dict>
 					<key>AddCopyrightMailTo</key>
-					<true/>
+					<false/>
 					<key>Banner</key>
 					<data>
 					/9j/4AAQSkZJRgABAQAASABIAAD/4QDIRXhp
@@ -22461,7 +22491,7 @@
 					<key>ContactText</key>
 					<string>Contact Me</string>
 					<key>CopyrightText</key>
-					<string>© 2017 Happily Ever Expeditions</string>
+					<string>&lt;div class="fb-like"      data-href="https://www.facebook.com/HappilyEverExpeditions/"      data-layout="box_count"      data-action="like"      data-show-faces="true"&gt;   &lt;/div&gt; &lt;a href=“http://instagram.com/happilyeverexpeditions.com“&gt;   &lt;img src=“insta.png” alt="Instagram" style="width:50px;height:50px;border:0;"&gt; &lt;/a&gt; &lt;br&gt; © 2017 Happily Ever Expeditions</string>
 					<key>CopyrightTextUsed</key>
 					<true/>
 					<key>CruftlessLinksEnabled</key>
@@ -24003,9 +24033,9 @@
 							<key>fileSystemPathBookmark</key>
 							<data>
 							Ym9vawwDAAAAAAQQMAAA
-							AKZb5iq0F5lYYqpbbfy7
-							+68MdQpXu+MPU413mGRe
-							6p7OCAIAAAQAAAADAwAA
+							AAuXrUhQNXFyu3LzvX1w
+							UnEMpDTuKVjBIgKMv3Y1
+							0HQyCAIAAAQAAAADAwAA
 							AAgAKAUAAAABAQAAVXNl
 							cnMAAAAPAAAAAQEAAGFk
 							YW1jaGlhcmF2YWxsZQAJ
@@ -24017,26 +24047,26 @@
 							eHBlZGl0aW9ucy5naXRo
 							dWIuaW8UAAAAAQYAABAA
 							AAAgAAAAOAAAAEwAAABw
-							AAAACAAAAAQDAACjZwYA
-							AAAAAAgAAAAEAwAAiMIG
-							AAAAAAAIAAAABAMAAP82
-							EQAAAAAACAAAAAQDAABy
-							yjwAAAAAAAgAAAAEAwAA
-							hco8AAAAAAAUAAAAAQYA
+							AAAACAAAAAQDAACHZwYA
+							AAAAAAgAAAAEAwAAvcUG
+							AAAAAAAIAAAABAMAAPak
+							EAAAAAAACAAAAAQDAAAa
+							sDUAAAAAAAgAAAAEAwAA
+							vsI1AAAAAAAUAAAAAQYA
 							ALQAAADEAAAA1AAAAOQA
 							AAD0AAAACAAAAAAEAABB
-							vxsQKQAAABgAAAABAgAA
+							vxsZyAAAABgAAAABAgAA
 							AgAAAAAAAAAPAAAAAAAA
 							AAAAAAAAAAAACAAAAAQD
 							AAADAAAAAAAAAAQAAAAD
 							AwAA9QEAAAgAAAABCQAA
 							ZmlsZTovLy8DAAAAAQEA
-							AFNTRAAIAAAABAMAAABA
-							XfgaAAAACAAAAAAEAABB
-							vwyhrAAAACQAAAABAQAA
-							NDJCMzE5QzAtNkIzNC0z
-							QUMwLTk0RkQtREUzODJG
-							ODVFODM1GAAAAAECAACB
+							AFNTRAAIAAAABAMAAADA
+							QfcbAAAACAAAAAAEAABB
+							vujJRAAAACQAAAABAQAA
+							MDZGRUU5RkYtN0JBRS0z
+							OEFCLTk5RjMtQzM1Qzkz
+							OUZCMUE2GAAAAAECAACB
 							AAAAAQAAAO8TAAABAAAA
 							AAAAAAAAAAABAAAAAQEA
 							AC8AAAAAAAAAAQUAAMwA
@@ -24062,7 +24092,7 @@
 							<key>label</key>
 							<string>Local Hosting</string>
 							<key>lastBackup</key>
-							<date>2017-07-19T01:32:54Z</date>
+							<date>2017-07-19T02:03:26Z</date>
 							<key>maxConnections</key>
 							<integer>6</integer>
 							<key>path</key>
