@@ -40,7 +40,7 @@
 					<key>page0 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T02:07:57Z</date>
+						<date>2017-07-19T02:12:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -49,8 +49,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								OspfFA7a5rNL
-								wdp2TetTRg==
+								fAzeDX7JtG8V
+								Sf8ofT4pTg==
 								</data>
 								<key>Size</key>
 								<integer>3691</integer>
@@ -106,7 +106,7 @@
 					<key>page1 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T02:07:57Z</date>
+						<date>2017-07-19T02:12:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -115,8 +115,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								aR17jYIGA+Lg
-								HPrRur7t6Q==
+								X9WwHgEztZEd
+								7wF1TRnQoQ==
 								</data>
 								<key>Size</key>
 								<integer>4112</integer>
@@ -132,7 +132,7 @@
 					<key>page2 - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T02:07:57Z</date>
+						<date>2017-07-19T02:12:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -141,8 +141,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6kAc4eqrWdyI
-								8LL5z6Fr6g==
+								VYCDR+nRggc3
+								gDw/xWriRw==
 								</data>
 								<key>Size</key>
 								<integer>3526</integer>
@@ -158,7 +158,7 @@
 					<key>rw:document:resources - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T02:07:57Z</date>
+						<date>2017-07-19T02:12:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -194,7 +194,7 @@
 					<key>rw:theme:kiki - file:///Users/adamchiaravalle/Developer/happilyeverexpeditions.com/happilyeverexpeditions.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-07-19T02:07:57Z</date>
+						<date>2017-07-19T02:12:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -284,7 +284,7 @@
 				QTg0MjNELTlDRkQtNDZFMC05MUNFLTBEOTFCQUQyNUM3
 				Ql8QD3NtYWxsQ2FzdGxlLmpwZ18QJEI0OEI0NjZFLUFG
 				QzUtNDhFNi1BOTM4LTE5QkQ0QTEyMDczMdI4Czk6V05T
-				LnRpbWUjQb8e9n6Ld2yAC9I8PT4/WiRjbGFzc25hbWVY
+				LnRpbWUjQb8e95L1t2uAC9I8PT4/WiRjbGFzc25hbWVY
 				JGNsYXNzZXNWTlNEYXRloj5AWE5TT2JqZWN00wkKC0JF
 				SKJDRIANgA6iRkaAD4APgBBfEC5maWxlOi8vL0xpYnJh
 				cnkvU2VydmVyL1dlYi9EYXRhL1NpdGVzL0RlZmF1bHQv
@@ -297,7 +297,7 @@
 				WFlaW1yAEYAAgACAF4AUgBOAFoAVXxAkOEE3NzZBQkIt
 				N0FCMC00QzZBLUIyMjQtNUM0RTNBRTEwQjE3WWluc3Rh
 				LnBuZ18QJDQ2QjQyNERFLTg1RDEtNEEzMi05QzEwLTI3
-				NjVFNTAxQUFBMtI4C2E6I0G/HvZ+i//egAvTCQoLZGZI
+				NjVFNTAxQUFBMtI4C2E6I0G/HveS9jvvgAvTCQoLZGZI
 				oWWAGKFGgA+AEF8QZGZpbGU6Ly8vVXNlcnMvYWRhbWNo
 				aWFyYXZhbGxlL0RldmVsb3Blci9oYXBwaWx5ZXZlcmV4
 				cGVkaXRpb25zLmNvbS9oYXBwaWx5ZXZlcmV4cGVkaXRp
@@ -24092,7 +24092,7 @@
 							<key>label</key>
 							<string>Local Hosting</string>
 							<key>lastBackup</key>
-							<date>2017-07-19T02:07:58Z</date>
+							<date>2017-07-19T02:12:34Z</date>
 							<key>maxConnections</key>
 							<integer>6</integer>
 							<key>path</key>
@@ -24136,7 +24136,7 @@
 					<key>WebClipIconUsed</key>
 					<false/>
 					<key>cacheBustingString</key>
-					<string>?rwcache=521869866</string>
+					<string>?rwcache=522123153</string>
 					<key>globalBody</key>
 					<string>&lt;div id="fb-root"&gt;&lt;/div&gt;
 &lt;script&gt;(function(d, s, id) {
